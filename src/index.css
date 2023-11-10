@@ -175,7 +175,6 @@ body {
   cursor: pointer;
   transition: all 0.2s;
 }
-
 .btn:hover {
   background-color: #e9bb24;
 }
